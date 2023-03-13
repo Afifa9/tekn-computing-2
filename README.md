@@ -1,1 +1,7 @@
-# Software-Quality
+# Teknologi Cloud
+# Playground
+
+It's just an example repo so that people can use it to learn Git.
+
+## contributor
+1. [AnggitaAlbiantara](https://github.com/AnggitaAlbiantara)
